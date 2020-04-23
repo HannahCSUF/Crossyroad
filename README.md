@@ -2,5 +2,5 @@
 Crossy Road project
 
 By
-Hannah Longstret 
+Hannah Longstreth 
 Traci Trojan 
